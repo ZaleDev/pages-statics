@@ -1,0 +1,41 @@
+--- Versioning Data ---
+Version Standard:
+
+{Stage Letter}{Major}.{Minor}.{Patch}-{Date as YYYYMMDD}
+
+- Major: A 'Major' update signifincantly alters the game. Most games only ever switch from Major "0" to Major "1" upon entering release stage.
+- Minor: Content updates. If it adds content, it's a Minor update. Normally, Minor updates do not invalidate previous save files.
+- Patch: Bug fixes, balance changes, and other small things. Normally, Patch updates do not invalidate previous save files.
+
+Version "Stages":
+- alpha (a): The game is in-development, not feature-complete, and likely unstable.
+- beta (b): The game is feature-complete, but not ready for release. Likely requires polishing, bugfixing, playtesting, and/or balancing.
+- public beta (p): The game is in 'beta' stage but publically accessible (includes early access builds).
+- release (r): The game is released.
+
+Additional Rules:
+- Stage progression only goes one way (alpha -> beta -> public beta -> release), although it is possible to skip any number of stages.
+- Any stage change must correspond to a 'Minor' version change (a0.5.0 becomes b0.6.0 when entering beta stage), except when entering into Release stage, which always corresponds to a Major change instead.
+- The 'Patch' version resets to 0 whenever the 'Minor' version changes. The 'Minor' and 'Patch' versions reset to 0 whenever the 'Major' version changes.
+- The 'Date' is used merely as a reference for when the version was created, and is not used for comparison purposes. It is formatted as YYYYMMDD and should always be 8 digits long (i.e. August is 08, not 8).
+
+Example Sequence of Versions with Comments:
+a0.1.0-20250611 # First ever version of the game.
+a0.1.1-20250613 # Bug fixes to a0.1.0 (Patch update).
+a0.1.2-20250614 # More bug fixes (Patch update).
+a0.2.0-20250622 # Content update (Minor update).
+a0.2.1-20250626 # Bug fixes for new content (Patch update).
+b0.3.0-20250701 # Game enters Beta stage (Stage and Minor update).
+b0.4.0-20250709 # Content update (Minor update).
+b0.4.1-20250711 # Bug fixes (Patch update).
+b0.5.0-20250729 # Content update (Minor update).
+p0.6.0-20250730 # Game enters Public Beta stage (Stage and Minor update).
+p0.6.1-20250730 # Hotfix on the same day (Patch update).
+r1.0.0-20250811 # Game is released (Stage and Major update).
+r1.0.1-20250812 # Post-release patch (Day 1 bug fixes)
+r1.0.2-20250813 # Another post-release patch (Day 2 bug fixes)
+r1.1.0-20250820 # The 'Sea of Stars' Update is released (Minor update).
+r1.1.1-20250821 # Hotfix for the 'Sea of Stars' Update (Patch update).
+r1.2.0-20250901 # The 'Autumn Leaves' Update is released (Minor update).
+r1.2.1-20250902 # Hotfix for the 'Autumn Leaves' Update (Patch update
+r1.2.2-20250903 # Another hotfix for the 'Autumn Leaves' Update (Patch update).

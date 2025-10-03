@@ -1,0 +1,64 @@
+{
+    "news": [
+        {
+            "titles": {
+                "en": "Update 1.2 is out!",
+                "fr": "Mise à jour 1.2 disponible!",
+                "it": "Aggiornamento 1.2 disponibile!"
+            },
+            "content": {
+                "en": "Update 1.2 brings the new zone \"Teriyaki Alcove\", the new boss \"The Sweet-and-Sour Devastator\", and the new questline \"A Culinary Catastrophe\".",
+                "fr": "La mise à jour 1.2 apporte la nouvelle zone \"Alcove Teriyaki\", le nouveau boss \"Le Dévastateur Aigre-Doux\", et la nouvelle quête \"Une Catastrophe Culinaire\".",
+                "it": "L'aggiornamento 1.2 porta la nuova zona \"Alcova Teriyaki\", il nuovo boss \"Il Devastatore Agrodolce\", e la nuova missione \"Una Catastrofe Culinaria\"."
+            },
+            "date": "2023-10-15",
+            "image_url": "https://summerpopgames.github.io/spg-statics/images/news/update_1_2.png",
+            "on_click_url": "https://summerpopgames.github.io/spg-statics/images/news/update_1_2.png"
+        },
+        {
+            "titles": {
+                "en": "New Game Release!",
+                "fr": "Nouveau jeu sorti!",
+                "it": "Nuovo gioco rilasciato!"
+            },
+            "content": {
+                "en": "Check out the latest game \"Capybara Knight IV: The Quest for the Golden Dishwasher\" now available on Steam!",
+                "fr": "Découvrez le dernier jeu \"Capybara Knight IV: La Quête du Lave-Vaisselle Doré\" maintenant disponible sur Steam!",
+                "it": "Scopri l'ultimo gioco \"Capybara Knight IV: La Ricerca della Lavastoviglie Dorato\" ora disponibile su Steam!"
+            },
+            "date": "2023-10-01",
+            "image_url": "https://summerpopgames.github.io/spg-statics/images/news/capybara_knight_iv.png",
+            "on_click_url": "https://summerpopgames.github.io/spg-statics/images/news/capybara_knight_iv.png"
+        },
+        {
+            "titles": {
+                "en": "New Chamption: Greg, the Defiler!",
+                "fr": "Nouveau Champion: Greg, le Profanateur!",
+                "it": "Nuovo Campione: Greg, il Profanatore!"
+            },
+            "content": {
+                "en": "Check out the latest champion \"Greg, the Defiler\" now available in the game! Greg is a powerful bruiser focused on prolonged engagements and area control, with abilities that get stronger the longer he remains in combat.",
+                "fr": "Découvrez le dernier champion \"Greg, le Profanateur\" maintenant disponible dans le jeu! Greg est un puissant bruiser axé sur les engagements prolongés et le contrôle de zone, avec des capacités qui deviennent plus fortes plus il reste en combat.",
+                "it": "Scopri l'ultimo campione \"Greg, il Profanatore\" ora disponibile! Greg è un potente bruiser focalizzato su ingaggi prolungati e controllo dell'area, con abilità che diventano più forti più a lungo rimane in combattimento."
+            },
+            "date": "2023-10-01",
+            "image_url": "https://summerpopgames.github.io/spg-statics/images/news/greg_the_defiler.png",
+            "on_click_url": "https://summerpopgames.github.io/spg-statics/images/news/greg_the_defiler.png"
+        },
+        {
+            "titles": {
+                "en": "New DLC Available!",
+                "fr": "Nouveau DLC disponible!",
+                "it": "Nuovo DLC disponibile!"
+            },
+            "content": {
+                "en": "The DLC \"IRS Phone Scam Simulator\" of \"Orcs Can't Use Computers\" is now available! Experience the thrill of scamming unsuspecting victims with this new content.",
+                "fr": "Le DLC \"IRS Phone Scam Simulator\" de \"Orcs Can't Use Computers\" est maintenant disponible! Découvrez le frisson de l'escroquerie aux victimes sans méfiance avec ce nouveau contenu.",
+                "it": "Il DLC \"IRS Phone Scam Simulator\" di \"Orcs Can't Use Computers\" è ora disponibile! Scopri il brivido di truffare vittime ignare con questo nuovo contenuto."
+            },
+            "date": "2023-10-15",
+            "image_url": "https://summerpopgames.github.io/spg-statics/images/news/orc_computer.png",
+            "on_click_url": "https://summerpopgames.github.io/spg-statics/images/news/orc_computer.png"
+        }
+    ]
+}

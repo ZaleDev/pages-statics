@@ -12,8 +12,8 @@
                 "it": "L'aggiornamento 1.2 porta la nuova zona \"Alcova Teriyaki\", il nuovo boss \"Il Devastatore Agrodolce\", e la nuova missione \"Una Catastrofe Culinaria\"."
             },
             "date": "2023-10-15",
-            "image_url": "https://summerpopgames.github.io/spg-statics/images/news/update_1_2.png",
-            "on_click_url": "https://summerpopgames.github.io/spg-statics/images/news/update_1_2.png"
+            "image_url": "https://zaledev.github.io/pages-statics/images/news/update_1_2.png",
+            "on_click_url": "https://zaledev.github.io/pages-statics/images/news/update_1_2.png"
         },
         {
             "titles": {
@@ -27,8 +27,8 @@
                 "it": "Scopri l'ultimo gioco \"Capybara Knight IV: La Ricerca della Lavastoviglie Dorato\" ora disponibile su Steam!"
             },
             "date": "2023-10-01",
-            "image_url": "https://summerpopgames.github.io/spg-statics/images/news/capybara_knight_iv.png",
-            "on_click_url": "https://summerpopgames.github.io/spg-statics/images/news/capybara_knight_iv.png"
+            "image_url": "https://zaledev.github.io/pages-statics/images/news/capybara_knight_iv.png",
+            "on_click_url": "https://zaledev.github.io/pages-statics/images/news/capybara_knight_iv.png"
         },
         {
             "titles": {
@@ -42,8 +42,8 @@
                 "it": "Scopri l'ultimo campione \"Greg, il Profanatore\" ora disponibile! Greg è un potente bruiser focalizzato su ingaggi prolungati e controllo dell'area, con abilità che diventano più forti più a lungo rimane in combattimento."
             },
             "date": "2023-10-01",
-            "image_url": "https://summerpopgames.github.io/spg-statics/images/news/greg_the_defiler.png",
-            "on_click_url": "https://summerpopgames.github.io/spg-statics/images/news/greg_the_defiler.png"
+            "image_url": "https://zaledev.github.io/pages-statics/images/news/greg_the_defiler.png",
+            "on_click_url": "https://zaledev.github.io/pages-statics/images/news/greg_the_defiler.png"
         },
         {
             "titles": {
@@ -57,8 +57,8 @@
                 "it": "Il DLC \"IRS Phone Scam Simulator\" di \"Orcs Can't Use Computers\" è ora disponibile! Scopri il brivido di truffare vittime ignare con questo nuovo contenuto."
             },
             "date": "2023-10-15",
-            "image_url": "https://summerpopgames.github.io/spg-statics/images/news/orc_computer.png",
-            "on_click_url": "https://summerpopgames.github.io/spg-statics/images/news/orc_computer.png"
+            "image_url": "https://zaledev.github.io/pages-statics/images/news/orc_computer.png",
+            "on_click_url": "https://zaledev.github.io/pages-statics/images/news/orc_computer.png"
         }
     ]
 }

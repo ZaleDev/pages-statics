@@ -2,16 +2,46 @@
     "news": [
         {
             "titles": {
+                "en": "Update 1.4 is out!",
+                "fr": "Mise à jour 1.4 disponible!",
+                "it": "Aggiornamento 1.4 disponibile!"
+            },
+            "content": {
+                "en": "Update 1.4 brings a new irrigation system that allows players to water their crops more efficiently. Several mid-game dungeons have been changed. Click to read the full patch notes.",
+                "fr": "La mise à jour 1.4 apporte un nouveau système d'irrigation qui permet aux joueurs d'arroser leurs cultures plus efficacement. Plusieurs donjons de milieu de partie ont été modifiés. Cliquez pour lire les notes de mise à jour complètes.",
+                "it": "L'aggiornamento 1.4 introduce un nuovo sistema di irrigazione che consente ai giocatori di annaffiare le loro colture in modo più efficiente. Diversi dungeon di metà gioco sono stati modificati. Clicca per leggere le note di aggiornamento complete."
+            },
+            "date": "2026-03-15",
+            "image_url": "https://zaledev.github.io/pages-statics/images/news/update_1_4.png",
+            "on_click_url": "https://zaledev.github.io/pages-statics/images/news/update_1_4.png"
+        },
+        {
+            "titles": {
+                "en": "Update 1.3 is out!",
+                "fr": "Mise à jour 1.3 disponible!",
+                "it": "Aggiornamento 1.3 disponibile!"
+            },
+            "content": {
+                "en": "Weapon customization is now available in the game! Players who log in during the first two weeks of the update will receive a free skin for the assault rifle.",
+                "fr": "La mise à jour 1.3 apporte la personnalisation des armes! Les joueurs qui se connectent pendant les deux premières semaines de la mise à jour recevront un skin gratuit pour le fusil d'assaut.",
+                "it": "L'aggiornamento 1.3 introduce la personalizzazione delle armi! I giocatori che effettuano il login durante le prime due settimane dell'aggiornamento riceveranno una skin gratuita per il fucile d'assalto."
+            },
+            "date": "2026-02-27",
+            "image_url": "https://zaledev.github.io/pages-statics/images/news/update_1_3.png",
+            "on_click_url": "https://zaledev.github.io/pages-statics/images/news/update_1_3.png"
+        },
+        {
+            "titles": {
                 "en": "Update 1.2 is out!",
                 "fr": "Mise à jour 1.2 disponible!",
                 "it": "Aggiornamento 1.2 disponibile!"
             },
             "content": {
-                "en": "Update 1.2 brings the new zone \"Teriyaki Alcove\", the new boss \"The Sweet-and-Sour Devastator\", and the new questline \"A Culinary Catastrophe\".",
-                "fr": "La mise à jour 1.2 apporte la nouvelle zone \"Alcove Teriyaki\", le nouveau boss \"Le Dévastateur Aigre-Doux\", et la nouvelle quête \"Une Catastrophe Culinaire\".",
-                "it": "L'aggiornamento 1.2 porta la nuova zona \"Alcova Teriyaki\", il nuovo boss \"Il Devastatore Agrodolce\", e la nuova missione \"Una Catastrofe Culinaria\"."
+                "en": "Update 1.2 brings a new dungeon \"Hamza Caves\" which may spawn in any jungle biome.",
+                "fr": "La mise à jour 1.2 apporte le nouveau donjon \"Caves de Hamza\" qui peut apparaître dans n'importe quel biome de jungle.",
+                "it": "L'aggiornamento 1.2 porta la nuova dungeon \"Caverne di Hamza\" che può apparire in qualsiasi bioma della giungla."
             },
-            "date": "2023-10-15",
+            "date": "2026-02-14",
             "image_url": "https://zaledev.github.io/pages-statics/images/news/update_1_2.png",
             "on_click_url": "https://zaledev.github.io/pages-statics/images/news/update_1_2.png"
         },
@@ -26,7 +56,7 @@
                 "fr": "Découvrez le dernier jeu \"Capybara Knight IV: La Quête du Lave-Vaisselle Doré\" maintenant disponible sur Steam!",
                 "it": "Scopri l'ultimo gioco \"Capybara Knight IV: La Ricerca della Lavastoviglie Dorato\" ora disponibile su Steam!"
             },
-            "date": "2023-10-01",
+            "date": "2026-03-15",
             "image_url": "https://zaledev.github.io/pages-statics/images/news/capybara_knight_iv.png",
             "on_click_url": "https://zaledev.github.io/pages-statics/images/news/capybara_knight_iv.png"
         },
@@ -41,7 +71,7 @@
                 "fr": "Découvrez le dernier champion \"Greg, le Profanateur\" maintenant disponible dans le jeu! Greg est un puissant bruiser axé sur les engagements prolongés et le contrôle de zone, avec des capacités qui deviennent plus fortes plus il reste en combat.",
                 "it": "Scopri l'ultimo campione \"Greg, il Profanatore\" ora disponibile! Greg è un potente bruiser focalizzato su ingaggi prolungati e controllo dell'area, con abilità che diventano più forti più a lungo rimane in combattimento."
             },
-            "date": "2023-10-01",
+            "date": "2026-03-15",
             "image_url": "https://zaledev.github.io/pages-statics/images/news/greg_the_defiler.png",
             "on_click_url": "https://zaledev.github.io/pages-statics/images/news/greg_the_defiler.png"
         },
@@ -56,7 +86,7 @@
                 "fr": "Le DLC \"IRS Phone Scam Simulator\" de \"Orcs Can't Use Computers\" est maintenant disponible! Découvrez le frisson de l'escroquerie aux victimes sans méfiance avec ce nouveau contenu.",
                 "it": "Il DLC \"IRS Phone Scam Simulator\" di \"Orcs Can't Use Computers\" è ora disponibile! Scopri il brivido di truffare vittime ignare con questo nuovo contenuto."
             },
-            "date": "2023-10-15",
+            "date": "2026-03-15",
             "image_url": "https://zaledev.github.io/pages-statics/images/news/orc_computer.png",
             "on_click_url": "https://zaledev.github.io/pages-statics/images/news/orc_computer.png"
         }
